@@ -16,6 +16,10 @@
 
 访问 GitHub Pages 查看在线演示：[https://seth360.github.io/fxtodo/](https://seth360.github.io/fxtodo/)
 
+## 一键部署
+
+[![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSeth360%2Ffxtodo)
+
 ## 使用方法
 
 1. 克隆仓库到本地  
