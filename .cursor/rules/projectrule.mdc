@@ -1,0 +1,10 @@
+---
+description: 项目规则
+globs: 
+alwaysApply: false
+---
+
+# 项目规则
+
+- 每次执行完不用运行打开命令
+- 
